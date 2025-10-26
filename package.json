@@ -2,6 +2,7 @@
 	"name": "muddy-feather-6a25",
 	"version": "0.0.0",
 	"private": true,
+	"type": "module",
 	"scripts": {
 		"deploy": "wrangler deploy",
 		"dev": "wrangler dev",
